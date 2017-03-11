@@ -746,12 +746,4 @@ f = fopen ("Hotel Records.txt","r+");
 	
 } //end of checkout function
 
-//**************************************************************************************   
-
-
-//NAME: WHITNEY FEARON
-//SCHOOL: ST. HUGH'S HIGH SCHOOL FOR GIRLS
-//TEACHER: MR. WYNTER
-//CANDIDATE NUMBER:
-
 
